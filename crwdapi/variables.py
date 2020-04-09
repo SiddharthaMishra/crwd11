@@ -1,3 +1,3 @@
 settings = {
-    "url": "verify-url",
+    "url": "http://localhost:8888/user/",
 }
