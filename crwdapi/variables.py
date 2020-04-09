@@ -1,0 +1,3 @@
+settings = {
+    "url": "verify-url",
+}

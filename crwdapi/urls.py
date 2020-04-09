@@ -5,5 +5,6 @@ from rest_framework import routers
 
 
 urlpatterns = [
-    path("rest/book/", views.books_list.as_view(), name="books_api"),
+    path("", views.books_list.as_view(), name="books_api"),
+    path("review-book", views.review_book)
 ]
